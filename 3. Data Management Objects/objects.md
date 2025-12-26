@@ -55,7 +55,7 @@
 | Record Name   | Vehicle Order Number |
 | Data Type     | Auto Number          |
 | Display Format| O-{0000}             |
-| Starting Num  | 001                  | 
+| Starting Num  | 001                  |
 | Allow Reports | Yes                  |
 | Allow Search  | Yes                  |
 
