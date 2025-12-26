@@ -1,12 +1,12 @@
 # Data Management Tabs
 
-## Object Tab Creation (Vehicle)
+## Object Tab Creation (Vehicle Tab)
 
 ![vehicle_tab](./vehicle.png)
-
-**Next - Next - Save**
+> **Next - Next - Save**
 
 ## More Object Tab Creation
+
 - **Vehicle Customer Tab**
 ![vehicle_customer](./customer.png)
   > **Next - Next - Save**
@@ -28,4 +28,5 @@
   > **Next - Next - Save**
 
 ## Final Tab Check
+
 ![final_check](./final.png)
