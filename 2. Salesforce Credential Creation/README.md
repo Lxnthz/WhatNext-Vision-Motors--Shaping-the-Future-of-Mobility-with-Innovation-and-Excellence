@@ -1,4 +1,4 @@
 # Credential
 
-email: byanfidry911@agentforce.com
-password: qwerty90233004
+email: removed after completion
+password: removed after completion
